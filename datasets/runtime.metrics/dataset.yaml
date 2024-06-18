@@ -1,4 +1,4 @@
-name: ewgenius.spiceapp.runtime_metrics
+name: ewgenius.spiceapp.runtime_metrics_test
 type: append
 migrations:
   - name: create_table
